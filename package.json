@@ -18,12 +18,17 @@
     "@payloadcms/next": "beta",
     "@payloadcms/plugin-cloud": "beta",
     "@payloadcms/richtext-lexical": "beta",
+    "@payloadcms/ui": "beta",
     "cross-env": "^7.0.3",
+    "crypto": "^1.0.1",
     "graphql": "^16.8.1",
+    "hi-base32": "^0.5.1",
     "next": "15.0.0-rc.0",
+    "otpauth": "^9.3.1",
     "payload": "beta",
     "react": "^19.0.0-rc-6230622a1a-20240610",
     "react-dom": "^19.0.0-rc-6230622a1a-20240610",
+    "react-qr-code": "^2.0.15",
     "sharp": "0.32.6"
   },
   "devDependencies": {
