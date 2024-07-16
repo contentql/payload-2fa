@@ -13,6 +13,8 @@ export const Users: CollectionConfig = {
       admin: {
         hidden: false,
         readOnly: false,
+        disableListColumn: true,
+        disableListFilter: true,
       },
       fields: [
         {
